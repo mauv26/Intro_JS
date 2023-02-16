@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/mauv26/Intro_JS/issues"
   },
-  "homepage": "https://github.com/mauv26/Intro_JS#readme"
+  "homepage": "https://github.com/mauv26/Intro_JS#readme",
+  "dependencies": {
+    "prompt-sync": "^4.2.0"
+  }
 }
